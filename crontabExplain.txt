@@ -1,0 +1,10 @@
+* * * * * commande à exécuter
+- - - - -
+| | | | |
+| | | | ----- Jour de la semaine (0 - 7) (Dimanche à Samedi, 0 et 7 sont équivalents)
+| | | ------- Mois (1 - 12)
+| | --------- Jour du mois (1 - 31)
+| ----------- Heure (0 - 23)
+------------- Minute (0 - 59)
+
+pour executer script avec il faut que le crontab aie le droit d'execution c a d fait chmod uguo+x nom.sh ou chmod +x nom.sh

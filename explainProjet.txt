@@ -1,0 +1,6 @@
+Le projet de sauvegarde automatisée en Bash offre une solution simple et efficace pour protéger les fichiers critiques 
+sur les systèmes Linux. Ce script, développé en Bash, permet aux utilisateurs de planifier et d'exécuter facilement des 
+sauvegardes régulières de leurs données. Les fonctionnalités clés incluent la gestion des options telles que l'utilisation
+de forks pour une exécution parallèle, la gestion des threads, l'exécution dans un sous-shell, et la redirection des sorties
+vers un fichier de journalisation. De plus, le script garantit une gestion proactive des erreurs et une personnalisation maximale.
+Il organise également les fichiers sauvegardés dans la destination selon une structure claire pour une récupération facile en cas de besoin.
