@@ -5,7 +5,7 @@ Le projet de sauvegarde automatisée en Bash offre une solution simple et effica
 ## Installation
 
 1. Clonez ce dépôt : `git clone https://github.com/YoussoufHard/Backup_Automatisation_Script`
-2. Naviguez vers le répertoire du projet : `cd ./projet`
+2. Naviguez vers le répertoire du projet : `cd /hemin_vers_le_clone`
 3. Assurez-vous que le script a les permissions d'exécution : `chmod +x autoSaveScript.sh`
 4. Exécutez le script : `./autoSaveScript.sh`
 
