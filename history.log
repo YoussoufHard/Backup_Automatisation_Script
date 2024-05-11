@@ -1,0 +1,59 @@
+2024-05-09-22-52-52 : youssouf : INFOS : 
+2024-05-09-22-52-52 : youssouf : ERROR : 
+2024-05-09-22-53-22 : youssouf : INFOS : 
+2024-05-09-22-53-22 : youssouf : ERROR : 
+2024-05-09-22-53-48 : youssouf : INFOS : 
+2024-05-09-22-53-48 : youssouf : ERROR : 
+2024-05-09-22-53-48 : youssouf : INFOS : Execution normal
+2024-05-09-22-53-48 : youssouf : INFOS : Copie des fichiers
+2024-05-09-22-53-48 : youssouf : INFOS : Fichier './README.md' copié avec succès.
+2024-05-09-22-53-48 : youssouf : INFOS : Fichier './autoSaveScript.sh' copié avec succès.
+2024-05-09-22-53-49 : youssouf : INFOS : Fichier './crontabExplain.txt' copié avec succès.
+2024-05-09-22-53-49 : youssouf : INFOS : Fichier './explainProjet.txt' copié avec succès.
+2024-05-09-22-53-49 : youssouf : INFOS : Fichier './history.log' copié avec succès.
+2024-05-09-22-53-49 : youssouf : INFOS : Dossier './log' copié avec succès.
+2024-05-09-22-53-49 : youssouf : INFOS : Fichier './ouiam.sh' copié avec succès.
+2024-05-09-22-53-49 : youssouf : INFOS : La tâche cron pour exécuter 'ouiam.sh' toutes les  heures a été configurée.
+2024-05-09-22-54-58 : youssouf : INFOS : 
+2024-05-09-22-54-58 : youssouf : ERROR : 
+2024-05-09-22-54-58 : youssouf : INFOS : Execution avec fork
+2024-05-09-22-54-58 : youssouf : ERROR : Erreur lors de la création du processus fils avec fork()
+2024-05-09-22-55-17 : youssouf : INFOS : 
+2024-05-09-22-55-17 : youssouf : ERROR : 
+2024-05-09-22-55-17 : youssouf : INFOS : Execution avec un sous shell
+2024-05-09-22-55-18 : youssouf : INFOS : La tâche cron pour exécuter 'ouiam.sh' toutes les  heures a été configurée.
+2024-05-09-22-56-02 : youssouf : INFOS : 
+2024-05-09-22-56-02 : youssouf : ERROR : 
+2024-05-09-22-56-02 : youssouf : INFOS : Execution avec threads
+2024-05-09-22-56-02 : youssouf : INFOS : La tâche cron pour exécuter 'ouiam.sh' toutes les  heures a été configurée.
+2024-05-09-22-56-02 : youssouf : INFOS : Fichier './README.md' copié avec succès.
+2024-05-09-22-56-02 : youssouf : INFOS : Fichier './autoSaveScript.sh' copié avec succès.
+2024-05-09-22-56-02 : youssouf : INFOS : Fichier './crontabExplain.txt' copié avec succès.
+2024-05-09-22-56-02 : youssouf : INFOS : Fichier './explainProjet.txt' copié avec succès.
+2024-05-09-22-56-02 : youssouf : INFOS : Fichier './history.log' copié avec succès.
+2024-05-09-22-56-02 : youssouf : INFOS : Dossier './log' copié avec succès.
+2024-05-09-22-56-02 : youssouf : INFOS : Fichier './ouiam.sh' copié avec succès.
+2024-05-09-22-56-49 : youssouf : INFOS : 
+2024-05-09-22-56-49 : youssouf : ERROR : 
+2024-05-09-22-57-08 : youssouf : INFOS : 
+2024-05-09-22-57-08 : youssouf : ERROR : 
+2024-05-09-22-57-08 : youssouf : INFOS : Execution avec fork
+2024-05-09-22-57-08 : youssouf : ERROR : Erreur lors de la création du processus fils avec fork()
+2024-05-09-22-57-29 : youssouf : INFOS : 
+2024-05-09-22-57-29 : youssouf : ERROR : 
+2024-05-09-22-57-29 : youssouf : INFOS : Execution avec threads
+2024-05-09-22-57-29 : youssouf : INFOS : Execution avec un sous shell
+2024-05-09-22-57-29 : youssouf : INFOS : Fichier './README.md' copié avec succès.
+2024-05-09-22-57-29 : youssouf : INFOS : Fichier './autoSaveScript.sh' copié avec succès.
+2024-05-09-22-57-29 : youssouf : INFOS : Fichier './crontabExplain.txt' copié avec succès.
+2024-05-09-22-57-29 : youssouf : INFOS : La tâche cron pour exécuter 'ouiam.sh' toutes les  heures a été configurée.
+2024-05-09-22-57-29 : youssouf : INFOS : Fichier './explainProjet.txt' copié avec succès.
+2024-05-09-22-57-29 : youssouf : INFOS : Fichier './history.log' copié avec succès.
+2024-05-09-22-57-30 : youssouf : INFOS : Dossier './log' copié avec succès.
+2024-05-09-22-57-30 : youssouf : INFOS : Fichier './ouiam.sh' copié avec succès.
+2024-05-10-00-35-19 : youssouf : ERROR : 
+2024-05-10-00-35-19 : youssouf : INFOS : 
+2024-05-10-00-35-35 : youssouf : INFOS : 
+2024-05-10-00-35-35 : youssouf : ERROR : 
+2024-05-10-00-35-43 : youssouf : INFOS : 
+2024-05-10-00-35-43 : youssouf : ERROR : 

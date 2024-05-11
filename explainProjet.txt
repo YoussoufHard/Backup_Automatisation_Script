@@ -1,3 +1,4 @@
+                                        EXPLICATION CONCISE DU PROJET 
 Le projet de sauvegarde automatisée en Bash offre une solution simple et efficace pour protéger les fichiers critiques 
 sur les systèmes Linux. Ce script, développé en Bash, permet aux utilisateurs de planifier et d'exécuter facilement des 
 sauvegardes régulières de leurs données. Les fonctionnalités clés incluent la gestion des options telles que l'utilisation

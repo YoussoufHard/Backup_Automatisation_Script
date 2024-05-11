@@ -1,3 +1,5 @@
+la signification de chaque etoile pour un crontab
+
 * * * * * commande à exécuter
 - - - - -
 | | | | |
